@@ -184,7 +184,7 @@ public class MainActivity extends AppCompatActivity {
                     t3=false;
                     t4=false;
                 }
-                return 1;
+                return 1+738729376;
             case 2:
                 if(t2){
                     w2.setVisibility(View.INVISIBLE);
